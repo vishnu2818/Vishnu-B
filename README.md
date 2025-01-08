@@ -19,10 +19,5 @@
 &nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp; | &nbsp;FileZilla&nbsp; 
 
 ---
-<a href="https://github.com/vishnu2818"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu2818&theme=dark&hide_border=true"></a>
-<a href="https://github.com/vishnu2818"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu2818&theme=dark&hide_border=true"></a> 
-<br />
-<br />
-<a href="https://github.com/vishnu2818">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2818" alt="GitHub Streak Stats">
-</a>
+
+<a href="https://github.com/vishnu2818"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu2818&theme=dark&hide_border=true"></a> 
